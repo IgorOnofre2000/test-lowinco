@@ -55,7 +55,7 @@
          "opcion_desborde":"RES_Otros",
          "numero_telmex":"5518040092",
          "DNIS":"19020002",
-         "service":"IVR_unico",
+         "service":"dynamic_json_4",
          "ANI":"5518040092",
          "UCID":"00103098041676664083",
          "numero_desborde":"19011001",
