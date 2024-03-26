@@ -68,10 +68,10 @@
                "tipo_linea":{
                   "pre_pago":"12345678",
                   "pos_pago":"87654321",
-                  "plano ":{
+                  "plano":{
                      "cod_pre_pago":"123",
                      "cod_pos_pago":"456",
-                     "precio ":{
+                     "precio":{
                         "p_pre_pago":"200",
                         "p_pos_pago":"100"
                      }
