@@ -83,8 +83,77 @@
    },
    "data_final_5":{
       "data":{
-         "Service":"dynamic_json_5",
-         "ANI":"5518040092"
+         "acd":"1",
+         "ani":"5518040092",
+         "cms":"5",
+         "conversation_id":"8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
+         "dnis":"19020002",
+         "conversation_watson":[
+            "Cliente: Hola",
+            "Watson: Espera un momento",
+            "Cliente: Quiero hablar con un humano",
+            "Watson: ¿Qué deseas realizar?"
+         ],
+         "plan":{
+            "prepago":"true",
+            "pospago":"false"
+         },
+         "login":"80059",
+         "numero_desborde":"19011001",
+         "numero_telmex":"5518040092",
+         "opcion_desborde":"res_otros",
+         "service":"ivr_unico",
+         "conversation_agent":[
+            "Cual es tu nombre?",
+            "Cuál es su servicio?",
+            "Qué operación quieres realizar?",
+            "Quieres participar en la encuesta?"
+         ],
+         "telefono":{
+            "telefono_fijo":"98765432",
+            "telefono_negocios":{
+               "tel_1":"11111111",
+               "tel_2":"22222222",
+               "tel_3":"33333333",
+               "tel_especial":[
+                  "99999999",
+                  "88888888",
+                  "77777777"
+               ]
+            }
+         },
+         "skill":"555",
+         "trunk_group":"44",
+         "ucid":"00103098041676664083",
+         "ultima_interaccion":1,
+         "vdn":"9900",
+         "otros_numeros":[
+            "11223344",
+            "55667788",
+            "99887766",
+            "12345678"
+         ],
+         "contexto_voz":{
+            "pulso":"",
+            "correo":"",
+            "nombre":"",
+            "celular":"",
+            "tipo_linea":"",
+            "tipo_servicio":"",
+            "codigo_paquete":"",
+            "conversation_id":"8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
+            "duracion_charla":34,
+            "ultima_interaccion":1,
+            "ultima_tipificacion":"soporte_ivr",
+            "motivo_transferencia":"SOPORTE",
+            "conversacion_watson":[
+               "Cliente: vgwNoInputTurn",
+               "Watson: Espera un momento por favor, voy a transferirte con un ejecutivo para que continúe apoyándote.",
+               "Cliente: vgwNoInputTurn",
+               "Cliente: quiero hablar con un humano",
+               "Watson: Gracias, para darte un mejor servicio por favor dime brevemente ¿Qué movimiento deseas realizar?"
+            ]
+         }
       }
    }
 }
