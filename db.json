@@ -102,7 +102,7 @@
          "numero_desborde":"19011001",
          "numero_telmex":"5518040092",
          "opcion_desborde":"res_otros",
-         "Service":"ivr_unico",
+         "Service":"dynamic_json_5",
          "conversation_agent":[
             "Cual es tu nombre?",
             "Cuál es su servicio?",
