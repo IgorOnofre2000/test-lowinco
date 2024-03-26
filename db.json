@@ -1,130 +1,53 @@
 {
-  "config": [
-    { "KEY": "123", "SERVICE": "VENTAS1", "ISSUE": "CELLPHONE1", "DATA1" : "AVAYA1", "CUSTOMERID" : "4444", "ELEMENTID" : "5678" },
-    { "KEY": "234", "SERVICE": "VENTAS2", "ISSUE": "CELLPHONE2", "DATA1" : "AVAYA2", "CUSTOMERID" : "7777", "ELEMENTID" : "9876" },
-    { "KEY": "321", "SERVICE": "VENTAS3", "ISSUE": "CELLPHONE3", "DATA1" : "AVAYA3" },
-    { "KEY": "414", "SERVICE": "VENTAS2", "ISSUE": "", "DATA1" : "", "CUSTOMERID" : "", "ELEMENTID" : "" },
-    { "KEY": "555", "ISSUE": "", "DATA1" : "", "CUSTOMERID" : "", "ELEMENTID" : "" }
-  ],
-  
-  "rs1":{
-    "clientid":"54321",
-    "data2":"MIDIAVOX"
-  },
-  
-  "data_final": {
-    "data": {
-      "opcion_desborde": "RES_Otros",
-      "Numero_Telmex": "112233445566",
-      "DNIS": "112233",
-      "Service": "IVR_unico",
-      "ANI": "2020202020",
-      "UCID": "463724638726487234",
-      "Numero_Desborde": "64328746",
-      "conversation_id": "8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
-      "ultima_interaccion": 1,
-      "contexto_voz": {
-        "pulso": "",
-        "correo": "",
-        "nombre": "",
-        "celular": "",
-        "tipo_linea": "",
-        "tipo_servicio": "",
-        "codigo_paquete": "",
-        "conversation_id": "8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
-        "duracion_charla": 34,
-        "ultima_interaccion": 1,
-        "ultima_tipificacion": "soporte_ivr",
-        "motivo_transferencia": "SOPORTE",
-        "conversacion_watson": [
-          "Cliente: vgwNoInputTurn",
-          "Watson: Espera un momento por favor, voy a transferirte con un ejecutivo para que continúe apoyándote.",
-          "Cliente: vgwNoInputTurn",
-          "Cliente: quiero hablar con un humano",
-          "Watson: Gracias, para darte un mejor servicio por favor dime brevemente ¿Qué movimiento deseas realizar?"
-        ]
+   "data_final":{
+      "data":{
+         "opcion_desborde":"RES_Otros",
+         "Numero_Telmex":"5518040092",
+         "DNIS":"19020002",
+         "Service":"IVR_unico",
+         "ANI":"5518040092",
+         "UCID":"00103098041676664083",
+         "Numero_Desborde":"19011001",
+         "conversation_id":"8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
+         "ultima_interaccion":1,
+         "contexto_voz":{
+            "pulso":"",
+            "correo":"",
+            "nombre":"",
+            "celular":"",
+            "tipo_linea":"",
+            "tipo_servicio":"",
+            "codigo_paquete":"",
+            "conversation_id":"8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
+            "duracion_charla":34,
+            "ultima_interaccion":1,
+            "ultima_tipificacion":"soporte_ivr",
+            "motivo_transferencia":"SOPORTE",
+            "conversacion_watson":[
+               "Cliente: vgwNoInputTurn",
+               "Watson: Espera un momento por favor, voy a transferirte con un ejecutivo para que continúe apoyándote.",
+               "Cliente: vgwNoInputTurn",
+               "Cliente: quiero hablar con un humano",
+               "Watson: Gracias, para darte un mejor servicio por favor dime brevemente ¿Qué movimiento deseas realizar?"
+            ]
+         }
       }
-    }
-  },
-
-  "data_final_2": {
-    "data": {
-      "opcion_desborde": "RES_Otros",
-      "Numero_Telmex": "112233445566",
-      "DNIS": "112233",
-      "Service": "IVR_unico_2",
-      "ANI": "9988",
-      "UCID": "463724638726487234",
-      "Numero_Desborde": "64328746",
-      "conversation_id": "8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
-      "ultima_interaccion": 1,
-      "llamada": {
-        "nombre": "Qwerty",
-        "celular": "11223344",
-        "correo": "qwerty@gmail.com",
-        "plan": {
-          "prepago": "true",
-          "pospago": "false"
-        },
-        "telefono": {
-          "telefono_fijo": "98765432",
-          "telefono_negocios": {
-            "tel_1": "11111111",
-            "tel_2": "22222222",
-            "tel_3": "33333333"
-          }
-        },
-        "agentes": [
-          "agente1", "agente2", "agente3", "agente4", "agente5"
-        ]
-      },
-      "contexto_voz": {
-        "tipo_servicio": "",
-        "codigo_paquete": "",
-        "conversation_id": "8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
-        "duracion_charla": 34,
-        "ultima_interaccion": 1,
-        "ultima_tipificacion": "soporte_ivr",
-        "motivo_transferencia": "SOPORTE",
-        "conversacion_watson": [
-          "Cliente: vgwNoInputTurn",
-          "Watson: Espera un momento por favor, voy a transferirte con un ejecutivo para que continúe apoyándote."
-        ]
+   },
+   "data_final_2":{
+      "data":{
+         "opcion_desborde":"RES-FallaEntretiene",
+         "Numero_Telmex":"5513158809",
+         "DNIS":"19020001",
+         "Service":"IVR_unico",
+         "ANI":"5513158809",
+         "UCID":"00101440841701806021",
+         "Numero_Desborde":"10728381"
       }
-    }
-  },
-
-  "data_final_3": {
-    "data": {
-      "opcion_desborde": "RES_Otros",
-      "Numero_Telmex": "112233445566",
-      "DNIS": "112233",
-      "UCID": "463724638726487234",
-      "Numero_Desborde": "64328746",
-      "conversation_id": "8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
-      "ultima_interaccion": 1,
-      "contexto_voz": {
-        "pulso": "",
-        "correo": "",
-        "nombre": "",
-        "celular": "",
-        "tipo_linea": "",
-        "tipo_servicio": "",
-        "codigo_paquete": "",
-        "conversation_id": "8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
-        "duracion_charla": 34,
-        "ultima_interaccion": 1,
-        "ultima_tipificacion": "soporte_ivr",
-        "motivo_transferencia": "SOPORTE",
-        "conversacion_watson": [
-          "Cliente: vgwNoInputTurn",
-          "Watson: Espera un momento por favor, voy a transferirte con un ejecutivo para que continúe apoyándote.",
-          "Cliente: vgwNoInputTurn",
-          "Cliente: quiero hablar con un humano",
-          "Watson: Gracias, para darte un mejor servicio por favor dime brevemente ¿Qué movimiento deseas realizar?"
-        ]
+   },
+   "data_final_3":{
+      "data":{
+         "service":"IVR_unico",
+         "ANI":"5518040092"
       }
-    }
-  }
-  
+   }
 }
