@@ -4,7 +4,7 @@
          "opcion_desborde":"RES_Otros",
          "Numero_Telmex":"5518040092",
          "DNIS":"19020002",
-         "Service":"IVR_unico",
+         "Service":"dynamic_json_1",
          "ANI":"5518040092",
          "UCID":"00103098041676664083",
          "Numero_Desborde":"19011001",
@@ -38,7 +38,7 @@
          "opcion_desborde":"RES-FallaEntretiene",
          "Numero_Telmex":"5513158809",
          "DNIS":"19020001",
-         "Service":"IVR_unico_2",
+         "Service":"dynamic_json_2",
          "ANI":"5513158809",
          "UCID":"00101440841701806021",
          "Numero_Desborde":"10728381"
@@ -46,7 +46,7 @@
    },
    "data_final_3":{
       "data":{
-         "service":"IVR_unico_3",
+         "service":"dynamic_json_3",
          "ANI":"5518040092"
       }
    }
