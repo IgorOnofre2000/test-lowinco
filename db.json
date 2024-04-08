@@ -4,7 +4,7 @@
          "opcion_desborde":"RES_Otros",
          "Numero_Telmex":"5518040092",
          "DNIS":"19020002",
-         "Service":"dynamic_json_1",
+         "Service":"IVR_unico",
          "ANI":"5518040092",
          "UCID":"00103098041676664083",
          "Numero_Desborde":"19011001",
