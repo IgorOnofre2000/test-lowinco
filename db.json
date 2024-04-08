@@ -1,36 +1,6 @@
 {
    "data_final":{
       "data":{
-         "opcion_desborde":"RES_Otros",
-         "Numero_Telmex":"5518040092",
-         "DNIS":"19020002",
-         "Service":"dynamic_json_1",
-         "ANI":"5518040092",
-         "UCID":"00103098041676664083",
-         "Numero_Desborde":"19011001",
-         "conversation_id":"8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
-         "ultima_interaccion":1,
-         "contexto_voz":{
-            "pulso":"",
-            "correo":"",
-            "nombre":"",
-            "celular":"",
-            "tipo_linea":"",
-            "tipo_servicio":"",
-            "codigo_paquete":"",
-            "conversation_id":"8b55c8de-25be-43f8-8e11-8a3b56ff58e6",
-            "duracion_charla":34,
-            "ultima_interaccion":1,
-            "ultima_tipificacion":"soporte_ivr",
-            "motivo_transferencia":"SOPORTE",
-            "conversacion_watson":[
-               "Cliente: vgwNoInputTurn",
-               "Watson: Espera un momento por favor, voy a transferirte con un ejecutivo para que continúe apoyándote.",
-               "Cliente: vgwNoInputTurn",
-               "Cliente: quiero hablar con un humano",
-               "Watson: Gracias, para darte un mejor servicio por favor dime brevemente ¿Qué movimiento deseas realizar?"
-            ]
-         }
       }
    },
    "data_final_2":{
